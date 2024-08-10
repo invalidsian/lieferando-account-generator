@@ -1,0 +1,19 @@
+{
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "de",
+    "content-type": "application/json",
+    "origin": "https://www.lieferando.de",
+    "priority": "u=1, i",
+    "referer": "https://www.lieferando.de/",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"99\", \"Brave\";v=\"127\", \"Chromium\";v=\"127\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1",
+    "x-country-code": "de",
+    "x-language-code": "de",
+    "x-requested-with": "XMLHttpRequest",
+    "x-session-id": "fa4e3704-146b-413f-a084-34862fb9252f"
+}
